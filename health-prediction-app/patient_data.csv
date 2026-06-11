@@ -1,0 +1,13 @@
+Glucose,Haemoglobin,Cholesterol,Condition
+70,14,170,Healthy
+85,15,180,Healthy
+90,13,190,Healthy
+150,12,240,Diabetes Risk
+160,11,250,Diabetes Risk
+170,10,260,Diabetes Risk
+95,8,180,Anemia Risk
+100,7,190,Anemia Risk
+105,6,200,Anemia Risk
+180,9,280,Heart Disease Risk
+190,10,300,Heart Disease Risk
+200,11,320,Heart Disease Risk
